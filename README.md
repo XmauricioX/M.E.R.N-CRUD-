@@ -29,3 +29,5 @@ Borrado de una tarea:
 <img src="https://github.com/XmauricioX/M.E.R.N-CRUD-/blob/main/screenshots/crud6.png" alt="screenshot">
 Linux info:
 <img src="https://github.com/XmauricioX/M.E.R.N-CRUD-/blob/main/screenshots/sistema.png" alt="screenshot">
+Vista de la db desde PHP-MyAdmin:
+<img src="https://github.com/XmauricioX/M.E.R.N-CRUD-/blob/main/screenshots/php-my-admin.png" alt="screenshot">
