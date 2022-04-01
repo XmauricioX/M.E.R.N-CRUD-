@@ -2,11 +2,8 @@
 MERN STACK
 
 Que significa mern?
-
-M MySql 
-E Express
-R React
-N Node
+M     E       R     N
+MySql Express React Node
 
 Como iniciar esta app?
 
@@ -23,5 +20,10 @@ Fotos del proyecto realizado:
 Listado de tareas:
 <img src="https://github.com/XmauricioX/M.E.R.N-CRUD-/blob/main/screenshots/crud1.png" alt="screenshot">
 Creacion de una tarea:
+<img src="https://github.com/XmauricioX/M.E.R.N-CRUD-/blob/main/screenshots/crud2.png" alt="screenshot">
+<img src="https://github.com/XmauricioX/M.E.R.N-CRUD-/blob/main/screenshots/crud3.png" alt="screenshot">
 Editado de una tarea:
+<img src="https://github.com/XmauricioX/M.E.R.N-CRUD-/blob/main/screenshots/crud4.png" alt="screenshot">
+<img src="https://github.com/XmauricioX/M.E.R.N-CRUD-/blob/main/screenshots/crud5.png" alt="screenshot">
 Borrado de una tarea:
+<img src="https://github.com/XmauricioX/M.E.R.N-CRUD-/blob/main/screenshots/crud6.png" alt="screenshot">
