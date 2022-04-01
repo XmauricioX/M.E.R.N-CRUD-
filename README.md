@@ -2,7 +2,7 @@
 MERN STACK
 
 Que significa mern?
-M     E       R     N
+Son las siglas de:
 MySql Express React Node
 
 Como iniciar esta app?
