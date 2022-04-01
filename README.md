@@ -27,3 +27,5 @@ Editado de una tarea:
 <img src="https://github.com/XmauricioX/M.E.R.N-CRUD-/blob/main/screenshots/crud5.png" alt="screenshot">
 Borrado de una tarea:
 <img src="https://github.com/XmauricioX/M.E.R.N-CRUD-/blob/main/screenshots/crud6.png" alt="screenshot">
+Linux info:
+<img src="https://github.com/XmauricioX/M.E.R.N-CRUD-/blob/main/screenshots/sistema.png" alt="screenshot">
