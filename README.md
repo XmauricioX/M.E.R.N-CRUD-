@@ -21,7 +21,7 @@ En el caso de querer iniciarlo desde windows se debe instalar xampp e iniciar el
 Fotos del proyecto realizado:
 
 Listado de tareas:
-<img serc="./screenshots/crud1.png" alt="screenshot">
+<img serc="https://github.com/XmauricioX/M.E.R.N-CRUD-/blob/main/screenshots/crud1.png" alt="screenshot">
 Creacion de una tarea:
 Editado de una tarea:
 Borrado de una tarea:
