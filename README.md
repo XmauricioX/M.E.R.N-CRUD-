@@ -3,7 +3,10 @@ MERN STACK
 
 Que significa mern?
 Son las siglas de:
-MySql Express React Node
+MySql - Express - React - Node
+
+Tecnologias en este proyecto:
+React, Node, Express, Sequelize, MySql , PhpMyAdmin y Linux. 
 
 Como iniciar esta app?
 
