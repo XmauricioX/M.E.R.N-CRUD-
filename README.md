@@ -6,7 +6,7 @@ Son las siglas de:
 MySql - Express - React - Node
 
 Tecnologias en este proyecto:
-React, Node, Express, Sequelize, MySql , PhpMyAdmin y Linux. 
+React, Node, Express, Sequelize, MySql, PhpMyAdmin, VsCode y Linux. 
 
 Como iniciar esta app?
 
